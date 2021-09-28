@@ -1,0 +1,76 @@
+.side_nav{
+    background: #003466;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+
+
+}
+
+
+.linker{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    padding: 1.2rem 0rem;
+}
+.header_text{
+    margin-top: 2rem;
+    color: white;
+}
+svg{
+    margin: 0rem 1rem 0.5rem 0rem;
+}
+#iconic:hover{
+    fill: red;
+}
+.mainer{
+    margin-left: 30%;
+    padding: 2rem 0rem ;
+}
+.modal_section{
+
+    display: flex;
+}
+.modal-header{
+    background-color:green;
+    color:white;
+}
+.input_modal{
+    width: 95%;
+    margin: 1rem 1rem;
+    padding: 0.5rem;
+}
+
+.text_area{
+    margin:1rem;
+}
+.input-grouper{
+    width: 20%;
+    margin: 2rem 2rem;
+
+}
+.section_add{
+    margin: 2rem 0rem;
+    display: flex;
+    overflow-x: scroll;
+    
+}
+
+.form-select {
+
+    display: block;
+    width: 8rem;
+
+
+}
+.shower{
+    margin: 3rem 37rem;
+    left: 10rem;
+
+    border: none;
+    padding: 0.5rem;
+    background: green;
+    color: white;
+
+}
